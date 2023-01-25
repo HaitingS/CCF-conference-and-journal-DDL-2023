@@ -22,6 +22,9 @@
 | $\color{green}{CIKM} $ | ACM International Conference on Information and Knowledge Management  | 05.19 | 08.01 |B|CIKM有长短文之分|
 | $\color{green}{WSDM} $ | ACM International Conference on Web Search and Data Mining |08.12|10.21|B|长文|
 | DASFAA | Database Systems for Advanced Applications |11.11|01.16|B|research/industry paper|
+| ICDM | International Conference on Data Mining |07.01|09.01|B|http://www.cloud-conf.net/icdm2023/index.html|
+| ICDT | International Conference on Database Theory |03.27/09.20|06.05/11.29|B|http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=171297&copyownerid=164547|
+| EDBT | International Conference on Extending DB Technology |11.11|01.16|B|research/industry paper|
 
 
 
