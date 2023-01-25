@@ -21,7 +21,7 @@
 | ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|10.8/11.10/23.2.11||B|journal track|
 | $\color{green}{CIKM} $ | ACM International Conference on Information and Knowledge Management  | 05.19 | 08.01 |B|CIKM有长短文之分|
 | $\color{green}{WSDM} $ | ACM International Conference on Web Search and Data Mining |08.12|10.21|B|长文|
-| $\color{grey}{DASFAA} $ | Database Systems for Advanced Applications |11.11|01.16|B|research/industry paper|
+| DASFAA | Database Systems for Advanced Applications |11.11|01.16|B|research/industry paper|
 
 
 
