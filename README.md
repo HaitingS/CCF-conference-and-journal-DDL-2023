@@ -37,6 +37,7 @@
 | ECIR | European Conference on IR Research |10.07|12.12|C|https://ecir2023.org/calls/papers.html?v=1.17|
 | ESWC | Extended Semantic Web Conference|12.18|02.23|C|https://2023.eswc-conferences.org/call-for-papers-research-track/|
 | PAKDD | Pacific-Asia Conference on Knowledge Discovery and Data Mining |12.07|02.07|C|https://pakdd2023.org/cfp/|
+| PAKDD | Pacific-Asia Conference on Knowledge Discovery and Data Mining |12.07|02.07|C|https://pakdd2023.org/cfp/|
 
 
 
