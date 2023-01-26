@@ -37,7 +37,11 @@
 | ECIR | European Conference on IR Research |10.07|12.12|C|https://ecir2023.org/calls/papers.html?v=1.17|
 | ESWC | Extended Semantic Web Conference|12.18|02.23|C|https://2023.eswc-conferences.org/call-for-papers-research-track/|
 | PAKDD | Pacific-Asia Conference on Knowledge Discovery and Data Mining |12.07|02.07|C|https://pakdd2023.org/cfp/|
-| PAKDD | Pacific-Asia Conference on Knowledge Discovery and Data Mining |12.07|02.07|C|https://pakdd2023.org/cfp/|
+| SIGKDD | ACM Knowledge Discovery and Data Mining |02.02|05.18|A|https://kdd.org/kdd2023/call-for-research-track-papers/|
+| ICDE | IEEE International Conference on Data Engineering |04.25/07.08/10.08|06.25/09.08/12.08|A|https://pakdd2023.org/cfp/|
+| SIGIR | International Conference on Research on Development in Information Retrieval |01.31|04.04|A|长文https://sigir.org/sigir2023/|
+| $\color{red}{SIGIR}$ | International Conference on Research on Development in Information Retrieval |2.21|04.04|A|短文https://sigir.org/sigir2023/|
+| VLDB | International Conference on Very Large Data Bases |02.28||A|https://vldb.org/2023/?important-dates 数据管理数据库，不太贴合，类似sigmod|
 
 
 
