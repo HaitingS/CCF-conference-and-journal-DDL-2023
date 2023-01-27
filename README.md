@@ -2,8 +2,6 @@
 
 你把相关的会议以及截止日期，期刊以及有相关论文的，列一个表吧，然后看看投哪个
 
-翻一翻各大会议期刊的官网的时间以及接受的范围
-
 
 主题：graph、data mining、network embedding
 这个底下我觉得可以加一个social network
