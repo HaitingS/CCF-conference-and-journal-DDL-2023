@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- | --- |
 |ISWC | IEEE International Semantic Web Conference |02.15|03.02|B|http://dblp.uni-trier.de/db/conf/semweb/ knowledge graph|
 | ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|04.06|06.14|B|conference track|
-| ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|10.8/11.10/23.2.11||B|journal track|
+| $\color{red}{ECML-PKDD}$ | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|10.8/11.10/23.2.11||B|journal track|
 |CIKM | ACM International Conference on Information and Knowledge Management  | 05.19 | 08.01 |B||
 | MDM | International Conference on Mobile Data Management |02.05|03.10|C|https://mdmconferences.org/mdm2023/ImportantDates.html|
 | DEXA | Database and Expert System Applications |03.07|05.10|C|https://www.dexa.org/dexa2023|
