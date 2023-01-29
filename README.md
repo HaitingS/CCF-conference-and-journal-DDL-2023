@@ -3,9 +3,7 @@
 会议：
 | 会议简称 | 会议全称 |截稿时间 | Papers Notifications| CCF级别| 备注 |
 | --- | --- | --- | --- | --- | --- |
-|ISWC | IEEE International Semantic Web Conference |02.15|03.02|B|http://dblp.uni-trier.de/db/conf/semweb/|
-| EDBT | International Conference on Extending DB Technology |02.15/06.01/10.03|03.20/08.01/12.07|B|https://dastlab.github.io/edbticdt2024/?contents=EDBT_CFP.html|
-| ICDT | International Conference on Database Theory |03.27/09.20|06.05/11.29|B|http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=171297&copyownerid=164547|
+|ISWC | IEEE International Semantic Web Conference |02.15|03.02|B|http://dblp.uni-trier.de/db/conf/semweb/ knowledge graph|
 | ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|04.06|06.14|B|conference track|
 |CIKM | ACM International Conference on Information and Knowledge Management  | 05.19 | 08.01 |B|CIKM有长短文之分|
 | MDM | International Conference on Mobile Data Management |02.05|03.10|C|https://mdmconferences.org/mdm2023/ImportantDates.html|
@@ -31,7 +29,8 @@
 | VLDB | International Conference on Very Large Data Bases |02.28||A|https://vldb.org/2023/?important-dates 数据管理数据库，不太贴合，类似sigmod|
 | WWW | International World Wide Web Conferences |10|01|A||
 |  | IEEE International Conference on Big Data |09|10.25|C|https://ieeebigdataservice.com/call-for-papers/|
-
+| EDBT | International Conference on Extending DB Technology |02.15/06.01/10.03|03.20/08.01/12.07|B|https://dastlab.github.io/edbticdt2024/?contents=EDBT_CFP.html 不契合|
+| ICDT | International Conference on Database Theory |03.27/09.20|06.05/11.29|B|http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=171297&copyownerid=164547 topics不契合|
 
 
 
