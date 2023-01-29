@@ -2,15 +2,6 @@
 
 你把相关的会议以及截止日期，期刊以及有相关论文的，列一个表吧，然后看看投哪个
 
-
-主题：graph、data mining、network embedding
-这个底下我觉得可以加一个social network
-
-先少整理几个A类吧，重点放在B和C上
-
-2023日程还没出，截止日期为2022的时间 ：绿色表示
-已过会议：灰色表示
-
 会议：
 | 会议简称 | 会议全称 |截稿时间 | Papers Notifications| CCF级别| 备注 |
 | --- | --- | --- | --- | --- | --- |
@@ -40,6 +31,8 @@
 | SIGIR | International Conference on Research on Development in Information Retrieval |01.31|04.04|A|长文https://sigir.org/sigir2023/|
 | $\color{red}{SIGIR}$ | International Conference on Research on Development in Information Retrieval |2.21|04.04|A|短文https://sigir.org/sigir2023/|
 | VLDB | International Conference on Very Large Data Bases |02.28||A|https://vldb.org/2023/?important-dates 数据管理数据库，不太贴合，类似sigmod|
+| WWW | International World Wide Web Conferences |10|01|A||
+|  | IEEE International Conference on Big Data |09|10.25|C|https://ieeebigdataservice.com/call-for-papers/|
 
 
 
@@ -47,5 +40,5 @@
 期刊：
 | 期刊简称 | 期刊全称 | CCF级别 | 平均出结果时间 | 官网 |
 | --- | --- | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| TKDD | ACM Transactions on Knowledge Discovery from Data |B||https://dl.acm.org/toc/tkdd/2022/16/6|
+
