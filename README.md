@@ -3,7 +3,7 @@
 会议：
 | 会议简称 | 会议全称 |截稿时间 | Papers Notifications| CCF级别| 备注 |
 | --- | --- | --- | --- | --- | --- |
-|$\color{red}{ISWC}$ | IEEE International Semantic Web Conference |02.15|03.02|B|http://dblp.uni-trier.de/db/conf/semweb/ knowledge graph|
+|$\color{red}{ISWC}$ | IEEE International Semantic Web Conference |02.15|03.02|B|https://iswc2023.semanticweb.org/call-for-challenges/ knowledge graph|
 | ECML-PKDD | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|04.06|06.14|B|conference track|
 | $\color{red}{ECML-PKDD}$ | European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases|10.8/11.10/23.2.11||B|journal track|
 |CIKM | ACM International Conference on Information and Knowledge Management  | 05.19 | 08.01 |B||
